@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "uber",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\MyProject\\NotJustDev\\Uber\\amplify\\backend\\api\\uber\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authuber6cf1a6d16cf1a6d1"
+    }
+  }
+}
